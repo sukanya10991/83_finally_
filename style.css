@@ -1,0 +1,22 @@
+.yeahyeahyeah {
+    background-image: url("original.jpg");
+    background-position: center;
+    background-size: cover;
+ }
+
+h1  { 
+    color:rgb(240, 64, 131);
+    font-size: 40px;
+}
+
+#rose {
+    border-width: 0.5cm;
+    background-color: rgb(206, 105, 206);
+    border-style:ridge;
+    border-color:rgb(9, 212, 185);
+    padding:1cm;
+ }
+
+span {
+     font-size: 20px;
+ }
